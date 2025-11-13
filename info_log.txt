@@ -1,0 +1,15 @@
+2024/09/04 11:32:09 log.go:33: Diretório de trabalho atual:C:\Users\kevin\Documents\Motor Definitivo\Motor v2\Motorv2
+2024/09/04 11:32:09 log.go:33: O código não está sendo executado como um serviço do Windows.
+2024/09/04 11:32:09 log.go:33: O serviço já existe.
+2025/03/10 14:32:44 log.go:33: Diretório de trabalho atual:C:\Users\kevin\Documents\Motor Definitivo\Motor v2\Motorv2
+2025/03/10 14:32:44 log.go:33: O código não está sendo executado como um serviço do Windows.
+2025/03/10 14:32:44 log.go:33: Vamos Configurar? 
+2025/03/10 14:32:44 log.go:33: AUTH USER:
+2025/09/24 14:14:36 log.go:33: Endereço MAC:00:ff:cd:ff:c5:d9
+2025/09/24 14:14:36 log.go:33: Endereço MAC:00:ff:99:35:31:74
+2025/09/24 14:14:36 log.go:33: Endereço MAC:10:ff:e0:49:a2:9c
+2025/09/24 14:14:36 log.go:33: Endereço MAC:00:09:0f:fe:00:01
+2025/09/29 21:23:32 log.go:33: Endereço MAC:00:ff:cd:ff:c5:d9
+2025/09/29 21:23:32 log.go:33: Endereço MAC:00:ff:99:35:31:74
+2025/09/29 21:23:32 log.go:33: Endereço MAC:10:ff:e0:49:a2:9c
+2025/09/29 21:23:32 log.go:33: Endereço MAC:00:09:0f:fe:00:01
